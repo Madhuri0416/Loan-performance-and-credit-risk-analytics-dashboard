@@ -1,5 +1,6 @@
 # Loan-performance-and-credit-risk-analytics-dashboard
 📊 Loan Performance & Credit Risk Analytics Dashboard (Power BI)
+
 📌 Project Overview
 This project delivers an executive-ready Power BI dashboard designed to monitor loan portfolio performance and credit risk exposure. The dashboard enables stakeholders to quickly track key KPIs such as total loan amount, default rate (NPL%), and risk segmentation, helping improve risk monitoring and decision-making.
 
