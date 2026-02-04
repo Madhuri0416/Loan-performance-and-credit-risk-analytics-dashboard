@@ -8,9 +8,13 @@ This project delivers an executive-ready Power BI dashboard designed to monitor 
 Loan portfolios often contain thousands of loan-level records. Without centralized reporting, stakeholders struggle to answer:
 
 1.How healthy is the overall loan portfolio?
+
 2.Which borrower segments contribute most to defaults?
+
 3.How does credit score influence default probability?
+
 4.What financial exposure exists from high-risk lending?
+
 5.Manual reporting leads to delayed decision-making and increased credit risk.
 
 ✅ Objectives
@@ -18,10 +22,15 @@ Loan portfolios often contain thousands of loan-level records. Without centraliz
 This dashboard answers:
 
 1.How many loans has the business issued?
+
 2.What is the total loan amount issued?
+
 3.What is the default rate / non-performing loan (NPL) percentage?
+
 4.What is the average loan amount?
+
 5.How is the portfolio distributed across risk categories?
+
 6.Which risk category has the highest default rate?
 
 📂 Dataset
